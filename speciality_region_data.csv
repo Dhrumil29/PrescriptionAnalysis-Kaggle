@@ -1,0 +1,283 @@
+speciality,South,Midwest,West,Northeast
+b'Hematology & Oncology',1918,1207,1243,1484
+b'Physical Therapy',2,0,0,0
+b'Hand Surgery',201,190,182,156
+b'Clinical & Laboratory Immunology',12,15,7,9
+b'Foot and Ankle Surgery',87,58,45,33
+b'Ophthalmologic Surgery',0,0,2,0
+b'Forensic Psychiatry',40,22,35,31
+"b""Women's Health Care, Ambulatory""",11,4,16,5
+"b'Obstetric, Inpatient'",1,0,1,1
+b'Addiction Medicine',105,63,86,103
+b'Nephrology',2274,1161,1238,1324
+b'Pediatric Dentistry',61,39,27,43
+b'Gynecologic Oncology',206,92,113,132
+b'Hypertension Specialist',3,0,0,1
+"b'Psych/Mental Health, Chronically Ill'",0,0,2,0
+b'Pulmonary Disease',1495,895,744,1161
+b'Otorhinolaryngology & Head-Neck',0,2,0,3
+b'Group Psychotherapy',1,0,0,0
+b'Multi-Specialty',1,0,4,0
+"b'Rehabilitation, Blind'",1,0,0,0
+b'Vascular Specialist',0,0,5,0
+b'Pediatric Pathology',1,0,0,0
+b'Sports Medicine',575,383,421,321
+b'Pharmacist Clinician (PhC)/ Clinical Pharmacy Specialist',16,1,87,1
+b'Orthopaedic Surgery of the Spine',289,142,210,112
+b'Pain',1,0,0,1
+b'Orthopaedic Trauma',62,36,39,32
+b'Medical Microbiology',0,1,0,0
+b'Child Abuse Pediatrics',0,1,0,0
+b'Facial Plastic Surgery',79,43,58,39
+b'Gerontology',252,255,179,242
+b'Otolaryngic Allergy',20,12,14,18
+b'Medical',4155,2097,3157,3036
+b'Dermatopathology',43,31,42,26
+b'Maternal & Fetal Medicine',33,14,19,29
+b'Pediatric Critical Care Medicine',11,10,9,5
+b'Therapeutic Radiology',22,8,25,33
+b'Cardiovascular-Interventional Technology',1,0,0,0
+b'Diagnostic Ultrasound',3,1,0,0
+b'Long-Term Care',1,0,0,0
+b'Clinical Neurophysiology',47,21,18,40
+b'Sports Vision',2,2,1,1
+b'Occupational Health',5,1,7,4
+b'Nutrition Support',0,0,2,0
+b'Transplant Hepatology',1,1,1,1
+b'Rural Health',2,0,0,0
+b'VA',2,0,1,0
+b'Surgical Oncology',123,48,68,71
+b'Surgical Technologist',818,588,761,1161
+b'Infectious Disease',1171,745,671,950
+b'Low Vision Rehabilitation',7,6,12,14
+b'Dental',1,1,1,1
+b'Maternal Newborn',0,0,0,2
+"b'Oncology, Pediatrics'",0,0,0,2
+b'Federally Qualified Health Center (FQHC)',2,0,4,1
+b'Geriatric Medicine',865,543,692,789
+b'Pediatric Rehabilitation Medicine',13,11,4,3
+b'Mental Health (Including Community Mental Health Center)',4,0,1,0
+b'Anatomic Pathology',14,5,5,15
+b'School',3,2,2,2
+b'Pain Medicine',793,398,496,425
+b'Radiological Physics',0,0,0,3
+b'Spinal Cord Injury Medicine',10,9,13,5
+b'Pulmonary Diagnostics',0,0,1,0
+b'Psychoanalysis',0,1,2,1
+b'Diabetes Educator',1,2,1,3
+b'Psych/Mental Health',840,489,737,1058
+b'Neuroscience',5,17,5,6
+b'Magnetic Resonance Imaging (MRI)',0,0,0,1
+b'Diagnostic Radiology',448,239,248,212
+b'Geriatric Psychiatry',99,52,58,130
+b'Radiation Therapy',0,0,1,0
+b'Community Health',24,20,49,27
+b'Internist',0,0,0,2
+b'Behavioral Neurology & Neuropsychiatry',9,4,5,4
+b'Geriatric',2,0,6,2
+b'Independent Duty Corpsman',2,0,0,0
+b'Perinatal',2,0,2,2
+b'Pediatric Allergy/Immunology',22,20,12,19
+b'Female Pelvic Medicine and Reconstructive Surgery',24,20,18,16
+b'Endodontics',823,485,733,623
+b'Vascular & Interventional Radiology',36,36,30,24
+b'Medical-Surgical',20,26,5,8
+b'In Vivo & In Vitro Nuclear Medicine',0,1,0,0
+b'Pediatric Radiology',0,1,1,0
+b'Nuclear Cardiology',7,8,2,13
+b'Radiology',0,0,0,1
+b'Adolescent Medicine',147,117,88,126
+b'Family',10509,5008,4553,4160
+b'Clinical Biochemical Genetics',2,0,1,0
+b'Forensic',0,0,1,0
+b'Trauma Surgery',42,19,18,10
+b'Pediatric Infectious Diseases',17,9,9,13
+b'Oncology',8,14,28,22
+b'Allergy',167,145,138,173
+b'Psychiatry',6173,4275,5054,7028
+b'Health Service',1,0,7,3
+b'Obesity Medicine',7,2,5,3
+b'Pain Management',0,0,5,1
+b'Children',0,0,1,1
+b'Pediatric Otolaryngology',11,18,6,13
+b'Child & Adolescent Psychiatry',475,281,354,495
+b'Pediatrics',112,72,53,91
+b'Pediatric Gastroenterology',29,24,23,18
+"b'Obstetric, High-Risk'",1,0,1,0
+b'Clinical',76,51,46,58
+b'Interventional Pain Medicine',245,108,91,62
+b'Adolescent and Children Mental Health',1,1,1,0
+b'Research Study',3,3,3,2
+b'Pediatric Cardiology',97,68,52,53
+b'Surgery of the Hand',78,47,55,17
+b'Pediatric Orthopaedic Surgery',14,4,7,7
+b'Registered Nurse First Assistant',1,1,1,1
+b'Ophthalmic Plastic and Reconstructive Surgery',4,1,2,0
+b'Addiction (Substance Use Disorder)',8,4,12,7
+b'Neuroradiology',16,5,7,5
+b'Oral and Maxillofacial Radiology',1,0,0,4
+b'Adult Development & Aging',0,0,0,1
+b'Ambulatory Surgical',2,1,5,0
+b'Foot Surgery',283,120,95,392
+b'Clinical Pathology/Laboratory Medicine',10,9,3,8
+b'Otology & Neurotology',58,49,35,23
+b'Community Health/Public Health',2,4,2,3
+b'MOHS-Micrographic Surgery',124,35,75,53
+b'Health',1,0,1,0
+b'Public Medicine',1,0,1,1
+b'Critical Access',5,2,4,5
+"b'Psych/Mental Health, Community'",0,3,1,2
+"b'Psych/Mental Health, Adult'",74,104,54,204
+b'Plastic Surgery Within the Head and Neck',21,7,19,4
+b'Acute Care',1005,445,295,525
+b'Pediatric Emergency Medicine',27,14,10,15
+b'Case Management',1,2,2,0
+"b'Respite Care, Mental Retardation and/or Developmental Disabilities, Child'",1,0,0,0
+b'Pediatric Dermatology',5,1,3,6
+b'Adult Mental Health',1,0,1,3
+b'Critical Care Medicine',118,93,114,98
+b'Plastic and Reconstructive Surgery',285,137,138,114
+b'Primary Podiatric Medicine',92,68,32,121
+b'Cardiovascular Disease',4528,2634,2255,3674
+b'Pediatric Endocrinology',43,42,16,32
+b'Orthodontics and Dentofacial Orthopedics',48,13,21,20
+b'Oral and Maxillofacial Surgery',1347,856,822,1050
+b'Emergency Care',0,1,0,0
+b'Body Imaging',1,4,5,5
+b'Hemodialysis',1,0,0,0
+b'Home Modifications',2,0,0,0
+b'Public Health & General Preventive Medicine',56,26,52,17
+b'Hospice',0,1,0,0
+b'Surgical Assistant',2,0,0,0
+b'Psychiatric',0,0,7,0
+b'Adult Medicine',410,129,253,188
+b'Clinical & Laboratory Dermatological Immunology',9,8,5,5
+b'Interventional Cardiology',404,220,259,172
+b'Ambulatory Care',0,2,1,5
+b'Ophthalmic',3,3,8,0
+b'Pharmacotherapy',14,2,81,2
+b'Rehabilitation',2,0,2,3
+b'Pediatric Pulmonology',32,18,6,22
+b'Psychosomatic Medicine',26,23,40,44
+b'Personal Care Attendant',0,0,0,1
+b'Urgent Care',8,1,4,1
+b'Vision Therapy',24,10,9,9
+b'Anatomic Pathology & Clinical Pathology',103,46,38,46
+b'Reproductive Endocrinology/Infertility',1,0,0,0
+b'Mental Health',62,22,69,49
+b'Clinical Genetics (M.D.)',14,11,8,6
+b'Administrator',0,0,0,2
+b'Chronic Care',0,0,1,0
+b'Neonatal',7,3,5,2
+b'Transplantation',1,0,0,0
+b'Neurodevelopmental Disabilities',8,9,14,14
+b'Podiatric',2,0,0,0
+b'Procedural Dermatology',136,37,87,104
+b'Plastic Surgery within the Head & Neck',76,50,110,41
+b'Pediatric Hematology-Oncology',31,21,28,12
+"b'Psych/Mental Health, Child & Family'",0,1,0,1
+b'Prescribing (Medical)',19,5,9,25
+b'Optician',2,0,0,3
+b'Women',0,1,0,0
+b'Adult Health',2053,1686,806,2899
+b'Pastoral',1,0,0,0
+b'Neonatal-Perinatal Medicine',32,21,22,16
+b'Immunopathology',0,0,1,0
+"b'Neonatal, Critical Care'",5,1,1,2
+b'Developmental \xc2\x96 Behavioral Pediatrics',22,13,19,16
+b'Clinical Pathology',0,0,2,0
+b'Pediatric Surgery',8,0,4,6
+b'Foot & Ankle Surgery',1097,833,759,791
+b'Nuclear Imaging & Therapy',1,1,2,1
+b'Reproductive Endocrinology',42,32,21,48
+b'Blood Banking & Transfusion Medicine',1,2,0,4
+b'Microbiology',1,0,0,0
+b'Oral and Maxillofacial Pathology',118,79,70,86
+b'Obstetrics & Gynecology',237,122,164,170
+b'Urology',1,3,1,2
+b'Occupational Vision',2,2,1,2
+b'College Health',1,0,0,0
+b'Vascular Surgery',547,358,345,393
+b'Cardiovascular Invasive Specialist',0,0,3,0
+b'Corneal and Contact Management',139,96,71,74
+b'General Practice',15578,11637,10528,10093
+b'Neurology',2644,1915,1722,2220
+b'Ocularist',0,0,1,0
+b'Infection Control',1,1,0,0
+b'Pediatric Rheumatology',2,3,4,3
+b'Sleep Medicine',72,30,55,28
+b'Cognitive & Behavioral',5,2,5,7
+b'Undersea and Hyperbaric Medicine',39,10,11,6
+b'Otolaryngology/Facial Plastic Surgery',124,114,87,82
+b'Neurology with Special Qualifications in Child Neurology',104,72,57,71
+b'Aerospace Medicine',11,1,2,2
+b'Hepatology',26,8,23,17
+b'Customized Equipment',0,0,0,1
+b'Pediatric Nephrology',75,39,37,16
+b'Clinical Cytogenetic',0,0,0,1
+b'Radiation Oncology',737,435,429,382
+b'Surgical Critical Care',19,20,8,20
+b'Athletic Trainer',2,2,1,0
+b'Prosthodontics',232,116,183,339
+b'Clinical Child & Adolescent',3,3,2,6
+b'Occupational Medicine',65,58,73,22
+b'Critical Care',0,0,0,1
+b'Dentist Anesthesiologist',2,3,1,0
+b'Mental Retardation & Developmental Disabilities',0,0,0,1
+"b'Psych/Mental Health, Child & Adolescent'",7,12,7,26
+b'Vascular Sonography',0,1,0,0
+b'Hospice and Palliative Medicine',107,74,79,58
+b'Orthopedic',3,1,2,5
+b'Speech-Language Assistant',2,0,0,0
+"b'Psych/Mental Health, Geropsychiatric'",3,2,0,4
+"b'Nutrition, Education'",1,1,1,0
+b'Gynecology',778,226,344,493
+b'Emergency Medical Services',675,550,375,248
+b'Nutrition',2,0,1,0
+b'Forensic Pathology',1,0,0,0
+b'Family Health',49,20,35,35
+"b'Family Planning, Non-Surgical'",0,0,1,0
+b'Emergency',7,4,23,6
+b'Prison Health',0,0,1,0
+b'Neuropathology',0,0,1,0
+b'Nuclear Radiology',4,2,1,3
+b'Pediatric Anesthesiology',1,3,1,1
+b'Preventive Medicine/Occupational Environmental Medicine',30,17,26,18
+b'Addiction Psychiatry',55,21,43,59
+b'Gastroenterology',3352,1891,1939,2513
+b'Allergy & Immunology',40,55,34,39
+b'Pediatric Urology',12,15,11,5
+"b'Nursing Care, Pediatric'",0,0,1,0
+b'Obstetrics',164,98,92,73
+b'Neonatal Intensive Care',0,0,1,0
+b'Medical Toxicology',7,16,4,6
+b'Hematology',72,83,45,96
+b'Professional',28,13,10,16
+b'Dental Public Health',74,49,40,35
+b'Endoscopy',1,0,0,0
+b'Methadone Clinic',0,0,0,1
+b'Wound Care',2,0,0,3
+b'Assistive Technology Practitioner',0,0,2,0
+"b'Endocrinology, Diabetes & Metabolism'",1380,779,831,1146
+"b""Women's Health""",304,316,247,227
+b'Medical Oncology',554,328,206,358
+b'Periodontics',1022,547,847,928
+b'Neuromuscular Medicine',9,8,7,6
+b'Computed Tomography',1,0,0,0
+b'Vascular Neurology',21,8,9,29
+b'Counseling',2,3,2,1
+"b'Pediatrics, Critical Care'",1,2,0,1
+b'Cytopathology',1,3,1,1
+b'Adult Reconstructive Orthopaedic Surgery',104,74,93,76
+b'Cardiac Rehabilitation',1,1,0,1
+b'Ph.D. Medical Genetics',0,1,0,0
+b'Continuing Education/Staff Development',0,0,1,0
+b'Primary Care',275,112,166,163
+b'Sports Physician',0,1,1,0
+b'Rural',2,0,0,2
+b'Rheumatology',1162,734,709,853
+b'Home Health',0,0,2,2
+b'Clinical Cardiac Electrophysiology',171,127,94,112
+b'Plastic Surgery',1,0,0,0
+b'Medical Specialty',8,3,7,6
+b'Diagnostic Neuroimaging',4,3,2,0
